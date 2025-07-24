@@ -1,6 +1,6 @@
 # README #
 
-## Creating and committing to Local Repositories ##
+## Creating and Committing to Local Repositories ##
 
 After installing git and configuring your identity:
 
@@ -17,3 +17,7 @@ echo '# LICENSE #' > LICENSE.md
 7. Use `git commit` to commit changes to the repository, with the -m flag to include a message.
 8. Use `git log` to see the commit history of the repo.
 9. Use `git diff` to see what's changed in each file, line by line.
+
+## Creating and Pushing to Remote Repositories on GitHub ##
+
+1.

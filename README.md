@@ -20,4 +20,4 @@ echo '# LICENSE #' > LICENSE.md
 
 ## Creating and Pushing to Remote Repositories on GitHub ##
 
-1.
+1. 
